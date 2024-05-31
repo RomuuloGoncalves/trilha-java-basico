@@ -7,7 +7,7 @@ public class Banco {
   public void cadastrarNumeroAgencia(int dado){
     numeroAgencia = dado;
   }
-
+  
   public void cadastrarAgencia(String dado){
     agencia = dado;
   }
